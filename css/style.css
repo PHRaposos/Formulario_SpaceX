@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 23px;
+}
+
+body {
+  background-image: url(../../img/backgroundLp.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  color: white;
+}
+
+.topLogo {
+  width: 350px;
+}
+
+.mainContainer {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 550px;
+  height: auto;
+}
+
+.btnn {
+  display: flex;
+  justify-content: center;
+  padding-top: 12px;
+}
+
+.footer {
+  margin-top: 10px;
+  margin-bottom: -30px;
+  justify-content: center;
+  display: flex;
+}
+
+.paragraph {
+  margin: 8px 0px;
+}
+
+/*# sourceMappingURL=style.css.map */
